@@ -1,7 +1,5 @@
 # CSCI-8700-Fall-2019
 
-TETING
-
 ## Project Description
 Video capture, archive, and make videos available (homegrown solution to things like NEST cams but locally and not in the cloud)
 Paragraph explaining what it is about
