@@ -1,8 +1,12 @@
 #!/usr/bin/python3
 
 
-import numpy as np
 import cv2
+import numpy as np
+import yaml
+
+
+settings = yaml.full_load(open('../settings.yaml'))
 
 cap = cv2.VideoCapture(0)
 #cap = cv2.VideoCapture(1)
