@@ -1,0 +1,21 @@
+# PyClops settings YAML file
+
+resolution:
+    width: 1920
+    height: 1080
+
+# Valid values are 'low', 'medium', or 'high'.
+sensitivity: 'medium'
+
+video_storage: '/var/www/html/storage'
+format: 'mov'
+
+cameras:
+  - id: 1
+    active: true
+    master: true
+    ip: '192.168.0.100'
+# - id: 2
+#   active: false
+#   master: false
+#   ip: '192.168.0.101'
