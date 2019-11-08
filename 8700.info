@@ -1,0 +1,5 @@
+sudo apt-get  install xawtv
+sudo apt-get install python3-opencv python3-opencv-apps
+python3 testvidfile.py
+sudo apt-get install  git
+git pull https://github.com/asbaker-317/CSCI-8700-Fall-2019.git master
