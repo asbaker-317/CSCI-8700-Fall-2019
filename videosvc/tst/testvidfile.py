@@ -3,7 +3,7 @@
 
 import cv2
 import numpy as np
-import yaml
+#import yaml
 
 
 settings = yaml.full_load(open('../settings.yaml'))

@@ -1,5 +1,18 @@
 sudo apt-get  install xawtv
 sudo apt-get install python3-opencv python3-opencv-apps
-python3 testvidfile.py
+sudo pip install flask numpy opencv-contrib-python imutils
+sudo pip3 install flask numpy opencv-contrib-python imutils
 sudo apt-get install  git
+pip3 install opencv-python 
+sudo apt-get install libcblas-dev
+sudo apt-get install libhdf5-dev
+sudo apt-get install libhdf5-serial-dev
+sudo apt-get install libatlas-base-dev
+sudo apt-get install libjasper-dev 
+sudo apt-get install libqtgui4 
+sudo apt-get install libqt4-test
+sudo apt-get install libilmbase-dev libopenexr-dev libgstreamer1.0-dev libavcodec-dev libavformat-dev libswscale-dev and libwebp-dev
+
 git pull https://github.com/asbaker-317/CSCI-8700-Fall-2019.git master
+python3 testvidfile.py
+export LD_PRELOAD=/usr/lib/arm-linux-gnueabihf/libatomic.so.1 
